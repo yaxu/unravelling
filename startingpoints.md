@@ -12,7 +12,7 @@ it just that laptops were fast enough?
 I didn't make feedback.pl until after the changing grammars symposium,
 but Ade was doing a range of live coding experiments, and I found a
 reference to us wanting to write perl scripts live to make people
-dance tracing back to before we started being Slub.. So it seems there
+dance tracing back to before we started being Slub (https://twitter.com/FakeDaveGreen/status/611790345186209792).. So it seems there
 was "something in the air", but what was it? Did the Joker release
 some technological deterministic gas into our aircon systems?
 
