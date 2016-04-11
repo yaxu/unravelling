@@ -1,4 +1,22 @@
+# Alex McLean
 
+Hey all,
+
+Hope all is great with you!
+
+I was just musing on how the ChucK, JITLib and the various Slub
+experiments happened more or less the same time at the start of this
+century, independently. What was it that made this happen at once? Was
+it just that laptops were fast enough?
+
+I didn't make feedback.pl until after the changing grammars symposium,
+but Ade was doing a range of live coding experiments, and I found a
+reference to us wanting to write perl scripts live to make people
+dance tracing back to before we started being Slub.. So it seems there
+was "something in the air", but what was it? Did the Joker release
+some technological deterministic gas into our aircon systems?
+
+see you
 
 # Ge Wang
 
