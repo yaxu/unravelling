@@ -28,3 +28,10 @@ sc-users mailing list circa 2001 had a certain amount of inspirational live codi
 
 best
 
+# Fabrice Mogini
+
+I remember that in early version of SC2 I had to wait for ages until my newly edited sequence would reach the place where I could hear the new part I had just worked on....so I was really keen on getting to try out new code instantly...
+
+I was using a GUI in SC2 to write a function as String, which could be evaluated using .interpret. That worked well; I remember showing this to felix when he once stayed over my place in London and he said he was using this also. Also in SC2, using global variables inside a function also worked and i think several people where doing it; I did a tutorial with a handout called 'live coding' which I taught at my London course in Hackney and that I also shared when I participated the the IDM school London as a guest lecturer. 
+
+When Julian implemented Just in Time library, it really solved a lot of things and made everything easier especially....and finally SC Server was designed differently and made it very accessible.
