@@ -57,4 +57,3 @@ When Julian implemented Just in Time library, it really solved a lot of things a
 # Nick Collins
 
 I wonder if the perl written live at that event was a modified script then run at command line a la early alexslub performance, rather than a quicker paced live code interaction (not to deny that some sort of concert programming was underway!). Strange that ade's pure events not mentioned more explicitly...
-
