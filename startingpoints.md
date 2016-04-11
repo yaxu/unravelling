@@ -1,3 +1,5 @@
+Excerpts from an email conversation..
+
 # Alex McLean
 
 Hey all,
